@@ -1,2 +1,2 @@
 # gary-branch-training
-var foo;
+var bar;
