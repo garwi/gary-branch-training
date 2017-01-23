@@ -1,3 +1,3 @@
 # gary-branch-training
-var bar;
-new addition;
+var bar; new addition;
+
